@@ -5,6 +5,6 @@ version
 ---
 - Ableton Live 9.7.7
 - Max 8.1.0
-
+- CNMAT Externals Object https://cnmat.berkeley.edu/downloads
 
 
